@@ -1,3 +1,3 @@
 # hello-world
 just a practice
-hello,everynoe,i'm so happy enjoy github
+hello,everyone,i'm so happy enjoy github
